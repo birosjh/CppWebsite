@@ -1,3 +1,3 @@
-# Learning Oatpp
+# Cpp Website
 
-This is a simple repository to test out Oatpp and learn about its functionality.
+A simple website build in C++ using the Crow library. This is for learning purposes.
